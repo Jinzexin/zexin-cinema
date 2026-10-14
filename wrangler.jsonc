@@ -1,0 +1,14 @@
+{
+  "main": ".open-next/worker.js",
+  "name": "libretv-home",
+  "compatibility_date": "2025-01-01",
+  "compatibility_flags": ["nodejs_compat", "nodejs_als"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "assets"
+  },
+  "vars": {
+    "PASSWORD": "1",
+    "DEFAULT_SOURCES": "[{\"name\":\"非凡资源\",\"url\":\"https://cj.ffzyapi.com/api.php/provide/vod\"},{\"name\":\"360资源\",\"url\":\"https://360zy.com/api.php/provide/vod\"},{\"name\":\"茅台资源\",\"url\":\"https://caiji.maotaizy.cc/api.php/provide/vod\"},{\"name\":\"暴风资源\",\"url\":\"https://bfzyapi.com/api.php/provide/vod\"},{\"name\":\"天涯资源\",\"url\":\"https://tyyszy.com/api.php/provide/vod\"},{\"name\":\"闪电资源\",\"url\":\"https://sdzyapi.com/api.php/provide/vod\"},{\"name\":\"红牛资源\",\"url\":\"https://www.hongniuzy2.com/api.php/provide/vod\"}]"
+  }
+}
