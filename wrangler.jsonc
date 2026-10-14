@@ -1,6 +1,6 @@
 {
   "main": ".open-next/worker.js",
-  "name": "libretv-home",
+  "name": "zexin-cinema",
   "compatibility_date": "2025-01-01",
   "compatibility_flags": ["nodejs_compat", "nodejs_als"],
   "assets": {
